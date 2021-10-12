@@ -4,7 +4,7 @@ Just chaos and stupidity to molest the rats around #ratchat. I'm lazy so I only 
  
 ## Installation
 
-Same as your favourite `fuelrats-dispatch-aliases` guide says
+Same as your favourite [fuelrats-dispatch-aliases](https://github.com/LittleFool/fuelrats-dispatch-aliases) guide says
 
 ## Why did you do this?
 
